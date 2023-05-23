@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Run ONI": {
+      "commandName": "Executable",
+      "executablePath": "%ProgramFiles(x86)%\\Steam\\steam.exe",
+      "commandLineArgs": "steam://rungameid/457140"
+    }
+  }
+}
